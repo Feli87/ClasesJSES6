@@ -1,0 +1,28 @@
+{
+  "name": "practicas",
+  "version": "0.1.1",
+  "description": "Practicas Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node POO.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Feli87/PracticasJs.git"
+  },
+  "keywords": [
+    "js",
+    "POO",
+    "javascript",
+    "Functional"
+  ],
+  "author": "Felipe Traina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Feli87/PracticasJs/issues"
+  },
+  "homepage": "https://github.com/Feli87/PracticasJs#readme",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
